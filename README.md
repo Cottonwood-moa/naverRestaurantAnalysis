@@ -23,5 +23,5 @@
 ㅤ  
 [BLOG 게시물로 이동](https://cottonwood-moa.tistory.com/79)  
 ㅤ  
-[깃허브 저장소](https://github.com/Cottonwood-moa/characterTest)  
+[깃허브 저장소](https://github.com/Cottonwood-moa/text-analysis-busan-)  
 ㅤ  
