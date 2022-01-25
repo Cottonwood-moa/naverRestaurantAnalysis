@@ -19,9 +19,9 @@
 ![image](https://user-images.githubusercontent.com/79053495/150987517-e1a506fb-dc03-46ed-a800-dc915e0c8a86.png)
 ![image](https://user-images.githubusercontent.com/79053495/150987540-ca5d3f47-e11c-402a-a1f0-95d9a0a0b6f5.png)
 ㅤ  
-**코드에 대한 자세한 정보를 원하시면 아래 포스트를 확인해주세요**  
+## info  
 ㅤ  
 [BLOG 게시물로 이동](https://cottonwood-moa.tistory.com/79)  
 ㅤ  
-
+[깃허브 저장소](https://github.com/Cottonwood-moa/characterTest)  
 ㅤ  
