@@ -15,6 +15,34 @@
 - scikit-learn
 ㅤ  
 ㅤ  
+## 구성
+```json
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "pug": "^3.0.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
+```
 ![image](https://user-images.githubusercontent.com/79053495/150987483-f4f3e0bc-9679-4ed9-9212-83a05629991c.png)
 ![image](https://user-images.githubusercontent.com/79053495/150987517-e1a506fb-dc03-46ed-a800-dc915e0c8a86.png)
 ![image](https://user-images.githubusercontent.com/79053495/150987540-ca5d3f47-e11c-402a-a1f0-95d9a0a0b6f5.png)
